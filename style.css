@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;300;400;500;600;700;800;900&display=swap');
+body {
+    font-family: 'Spartan', sans-serif;
+    background: #cfcccd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 340px;
+    height: 780px;
+    background: linear-gradient(to bottom, white, #f0f0f0);
+}
+
+.app-bg-gradient-blue {
+    background: linear-gradient(to bottom left, #0039A5, #00319B);
+}
+
+.app-color-blue {
+    color: #1453af;
+}
+
+.app-bg-red {
+    background: #ff4a53;
+}
+
+.app-bg-teal {
+    background: #bfdee3;
+}
+
+.app-bg-gray {
+    background: #a7b5ce;
+}
+
+.curve-bg {
+    border-radius: 50%;
+}
